@@ -1,0 +1,6 @@
+1.tener información que confirmar
+2.ver el nombre del origen
+3.buscar detalles, ortografía ,calidad ,fecha y hora
+4.si presento algunos asuntos ocurridos la noticia puede ser falsa 
+5.si no presento ningún fallo la información es real
+6.puedes estar seguro de que la información es confiable
